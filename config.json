@@ -1,0 +1,5 @@
+{
+  "port": 8000,
+  "frontend": "./frontend/dist",
+  "dbUrl": "mongodb+srv://test:Qwerty123@cluster0.vvxvown.mongodb.net/pai?retryWrites=true&w=majority"
+}
